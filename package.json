@@ -1,6 +1,6 @@
 {
   "name": "@fe.whnhouse/use-system-mode",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React Hook to determine system mode (light / dark)",
   "main": "build/index.js",
   "scripts": {
@@ -21,6 +21,10 @@
     "lightmode",
     "system mode"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fewhnhouse/use-system-mode.git"
+  },
   "author": "Felix Wohnhaas",
   "license": "MIT",
   "dependencies": {},
